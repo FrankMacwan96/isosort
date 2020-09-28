@@ -1,0 +1,17 @@
+{
+  "name": "iso_order",
+  "version": "1.0.0",
+  "description": "The package will retirve images from a specified folder and output image name on console according ISO spedd in reverse order.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Macwan",
+  "license": "ISC",
+  "dependencies": {
+    "exif": "^0.6.0",
+    "exif-parser": "^0.1.12",
+    "exif-reader": "^1.0.3",
+    "file-type": "^15.0.1"
+  }
+}
